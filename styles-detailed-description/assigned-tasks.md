@@ -6,7 +6,7 @@
 
 **Solution and graphic representation:**  Each list usually represents a person or a department, which is completely independent of the others, without any type of precedence or order between them. Each list will contain the tasks related to its corresponding topic. The resulting board will be similar to many to-do lists, independent of each other, but together in the same board. 
 
-![image](https://user-images.githubusercontent.com/47741431/110807537-6dd60000-8283-11eb-8295-15432a97eab4.png)
+![image](https://user-images.githubusercontent.com/47741431/111295307-83647480-864b-11eb-97d3-b2e942d7dc0c.png)
 
 **Examples:**
 
