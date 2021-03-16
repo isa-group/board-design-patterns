@@ -2,7 +2,7 @@
 
 **Problem:**  Situations or projects in which we have to provide a sequenced task guide, divided according to the different stages that make up the project. 
 
-**Motivation:** We will use this pattern when we want to detail the tasks to be done to make up a project. With this pattern we want to focus on the task list, not in the state of each task at each moment (as in a Kanban). One of the most frequent uses of this pattern is enumerating all the steps (tasks) that wwe have to do for completing a step of a project, represented in the lists. When we complete all tasks of all lists, we would have completed the project. 
+**Motivation:** We will use this pattern when we want to detail the tasks to be done to make up a project. With this pattern we want to focus on the task list, not in the state of each task at each moment (as in a Kanban). One of the most frequent uses of this pattern is enumerating all the steps (tasks) that we have to do for completing a step of a project, represented in the lists. When we complete all tasks of all lists, we would have completed the project. 
 
 **Solution and graphic representation:**  Each list represents a phase of the process that we are representing with the whole board, while cards are the tasks of each phase. In this way, we will provide the user a sequenced guide for completing the process, as the steps of a recipe. 
 
