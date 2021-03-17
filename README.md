@@ -1,4 +1,6 @@
 # A Catalogue of Patterns for Board-based Tools
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4609894.svg)](https://doi.org/10.5281/zenodo.4609894)
+
 
 Board-based software tools for managing collaborative work (e.g. Trello or Microsoft Planner) are highly configurable information systems. Their structure is based on boards that contain cards organized in lists. This structure allows users to organize a wide variety of formal or informal information and work processes in a very flexible way. However, this flexibility means that in every situation the user is required to make decisions to design a new board from scratch, which is not a straightforward task, specially if performed by non-technical users. 
 
