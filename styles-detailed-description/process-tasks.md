@@ -16,7 +16,7 @@ https://trello.com/b/6NanhvtF/design-sprint
 
  ![image](https://user-images.githubusercontent.com/47741431/110648556-19664e00-81b9-11eb-95fe-36ff3a0aed28.png)
 
-In this pattern we are representing the six phases in which the project is divided. In each list we have al the task that we have to do for completing the phase. Phases are ordered, in this case, temporarily, by the time in real life that each phase occurs and their precedences (Pre-Sprint Prep is before Understand, Understand is before Diverge...) 
+In this pattern we are representing the six phases in which the project is divided. In each list we have all the task that we have to do for completing the phase. Phases are ordered, in this case, temporarily, by the time in real life that each phase occurs and their precedences (Pre-Sprint Prep is before Understand, Understand is before Diverge...) 
 
 - **Project Based Learning**
 
